@@ -5,5 +5,12 @@
     "author": "skippystirr",
     "description": "High contrast neon theme inspired by Night City.",
     "url": "https://raw.githubusercontent.com/mooapp/themes/main/cyberpunk2077.mootheme"
+  },
+  {
+    "id": "nord",
+    "name": "Nord Frost",
+    "author": "skippystirr",
+    "description": "An arctic, north-bluish color palette."
+    "url": "https://raw.githubusercontent.com/mooapp/themes/main/nord.mootheme"
   }
 ]
