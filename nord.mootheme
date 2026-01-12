@@ -1,0 +1,13 @@
+{
+  "name": "Nord Frost",
+  "author": "skippystirr",
+  "isDark": true,
+  "colors": {
+    "background": "220 16% 22%",
+    "foreground": "218 27% 92%",
+    "primary": "193 43% 67%",
+    "secondary": "210 34% 63%",
+    "accent": "213 32% 52%",
+    "border": "222 16% 28%"
+  }
+}
