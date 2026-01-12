@@ -1,0 +1,13 @@
+{
+  "name": "Cyberpunk 2077",
+  "author": "skippystirr",
+  "isDark": true,
+  "colors": {
+    "background": "230 20% 7%",
+    "foreground": "180 100% 50%",
+    "primary": "330 100% 50%",
+    "secondary": "55 100% 50%",
+    "accent": "280 100% 60%",
+    "border": "330 100% 50%"
+  }
+}
